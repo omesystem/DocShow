@@ -49,7 +49,6 @@ public class MainActivity extends Activity {
                 R.drawable.jpg6, R.drawable.jpg7, R.drawable.jpg8,  
                 R.drawable.jpg10, R.drawable.jpg11, R.drawable.jpg9,  
                 R.drawable.jpg3, R.drawable.jpg4, R.drawable.jpg5,                
-                R.drawable.jpg6, R.drawable.jpg7, R.drawable.jpg8, 
                 R.drawable.jpg6, R.drawable.jpg7, R.drawable.jpg8,  
                 R.drawable.jpg10, R.drawable.jpg11, R.drawable.jpg9, 
         }; 
